@@ -1,0 +1,7 @@
+{
+  "name": "React PWA Camera App",
+  "description": "A progressive web application built with React and TypeScript that allows users to take photos using their device's camera and save them locally.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
